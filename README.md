@@ -12,7 +12,11 @@
 
 ## 详细技术拆解 (官方指南)
 项目背后的核心技术逻辑与部署实战，请参考以下详细文档：
-👉 **[点击阅读：多语言站点 SEO 基础设施部署详解](https://yodaofanyi-pc.com/youdao-document-translation-guide/)** ## 贡献与反馈
+## 详细技术拆解 (官方指南)
+项目背后的核心技术逻辑与部署实战，请参考以下详细文档：
+👉 [点击阅读：多语言站点 SEO 基础设施部署详解](https://yodaofanyi-pc.com/youdao-document-translation-guide/)
+
+## 贡献与反馈
 如果你在部署过程中遇到任何问题，或对多语言 SEO 有更深入的见解，欢迎提交 Issue。
 
 ---
