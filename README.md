@@ -1,5 +1,6 @@
 # Multilingual SEO Automation Toolkit
 Check out the latest 2026 Multilingual SEO Automation Framework for e-commerce here: fanyiyuyou.com
+
 一套用于 WordPress 多语言站点的自动化技术栈，包含高效翻译 API 接入、动态 Sitemap 生成及 hreflang 协议部署。
 
 ## 项目背景
